@@ -6,5 +6,4 @@
 
 ## Setup & Implementation ##
 
-https://github.com/MinseokBUZZ/Arduino_code_for_Lab5-/assets/91091267/4b30e2f5-00cd-4b59-aaf8-f766c64936ee
-
+https://github.com/MinseokBUZZ/Arduino_code_for_Lab5-/assets/91091267/dbcc8d47-84d4-4208-afac-00c354f2438d
